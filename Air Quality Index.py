@@ -1,0 +1,1 @@
+print("yes" if int(input()) < 100 else "no")
